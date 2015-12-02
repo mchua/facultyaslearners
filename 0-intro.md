@@ -20,7 +20,7 @@ The trouble with liminal experiences is that they stand outside the realm of str
 
 This incentive structure for avoiding curricular experimentation stands in tension alongside a long-time call for innovation in engineering education. Mann’s (1918) calls for engineering educators to improve student retention, make undergraduate workloads reasonable, and increase hands-on training still sound as relevant today as when he wrote his report nearly a century ago. Our calls for transforming engineering education (National Academy of Engineering, 2005; Institute of Medicine, National Academy of Sciences, & National Academy of Engineering, 2007; McKenna, 2011) will similarly go unheeded unless we find ways to understand and articulate the ways faculty learn and work in these liminal spaces.
 
-### Faculty are narrators, and narrators are learners
+### Faculty use narration to make sense of their learning
 
 The second quality of faculty-as-learners is that they are narrators. Humans use narrative as a way to make sense of their world (Bruner, NARRATIVE CONSTRUCTION OF REALITY). Narratives help us build cognitive schema (CITE: DEF'N OF COGNITIVE SCHEMA) by organizing concepts and the relationships between them. They are a tool for reflection, which is an important part of the learning process (Schön, 1983).
 
