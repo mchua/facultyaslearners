@@ -1,3 +1,9 @@
+Prior work: tools to think with
+==================================
+
+Overview
+------------
+
 This section presents a more in-depth view of three areas where we can employ prior literature as "tools to think with" for the topic of faculty as learners. The three areas are poststructuralism/postmodernism, narrative, and the community and culture of academic practice.
 
 In the introduction, we discussed how faculty learn within liminal experiences. We will look at the tools poststructuralism and postmodernism offer us for understanding and disrupting our existing views of faculty as learners.
