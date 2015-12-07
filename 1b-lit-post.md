@@ -21,6 +21,10 @@ Tools to think with
 
 The poststructural paradigm treats faculty-as-learners as agents working against metanarratives by constantly deconstructing intertextual accounts in a writerly manner. We'll spend the remainder of this subsection unpacking the terminology used in that sentence.
 
+### Rejecting metanarratives and demolishing binaries
+
+Postmodernism rejects metanarratives; poststructuralism deconstructs binaries and other forms of systematic categorization. Both of these are techniques to interrogate the simple notion of “truth” in order to admit multiplicities of perspectives.
+
 ### Readerly and writerly texts
 
 The terms writerly and readerly were coined by Roland Barthes in his 1973 book Le Plaisir du Texte (which the 1975 English translation renders as “The Pleasure of the Text”) in order to refer to the role of a text’s reader. A readerly text treats readers only as readers, passive recipients of knowledge. This may be done through narrative seduction, where authoritative-sounding words make it seem like an author’s interpretation is the only correct one; war propaganda frequently uses this technique. It may also be done through banality, where readers are conditioned to find a text so “ordinary” that they dismiss it with habitual patterns (Bruner, 1991, p. 9-10) such as “Oh, that’s just another woman being oversensitive and emotional.” Mishler’s description of “short-\[circuiting] the problem of meaning” by “suppressing the discourse and assuming shared and standard meanings” (1986, p. 65) is a perfect depiction of banality. 
