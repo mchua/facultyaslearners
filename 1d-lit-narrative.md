@@ -8,13 +8,21 @@
 A poststructural view of narrative
 ------------------------------------
 
+### Narratives are no longer about convergence on "truth"
+
 Poststructuralism does not reject narratives; rather, it embraces them as texts in different ways. The emphasis on narrative agency and the use of personal history still makes narrative valuable as a tool for exploring the idea of faculty-as-learners. However, we no longer see these narratives or the process of creating them as positivist “mirrors” reflecting the “true” world. We do not even see them as constructivist “lamps” from within the narrator’s mind radiating light on their personal perceptions of “truth” (Abrams, 1953). 
 
 Poststructural narratives aren't about the convergence of "truth" or even the attempt to create what Wikipedia calls a "neutral point of view" (CITATION), which is the metanarrative that says "there are many possible narratives for this space, and we have listed them below in an objective and reasonably complete fashion." "Neutral point of view" assumes a stable external point of reference by which “truth” can be calibrated and correlated. It implies a stance of having stepped outside of subjectivity -- "each of the people in their own little stories there can only see so much of the world, but I, compiling all these perspectives, can clearly see them all; my perspective is uniquely unmarked by subjectivity." 
 
-There is no perspective and no statement that goes unmarked by subjectivity. Even ordinary language is full of rhetoric and marked by the slippage of meaning (Derrida, 1998). For instance, we tell students to “take a course” that will “move them closer to graduation,” but do not literally mean that a “course” is something to physically take hold of, or that it will bodily convey them to a physical location of “graduation.”
+### Narratives only have meaning in context
 
 Instead, the poststructuralist view of narrative (and all other) texts is that they are collections of signs that “do not embody specific meanings or concepts” and only “ become meaningful when they are decoded according to cultural conventions.” (Cavallaro, 2001, p. 15-16). (POSSIBLY EXPAND DISCUSSION TO COVER ACADEMIC CULTURE, AS EXPLAINED EARLIER?)
+
+There is no perspective and no statement that goes unmarked by subjectivity. Even ordinary language is full of rhetoric and marked by the slippage of meaning (Derrida, 1998). For instance, we tell students to “take a course” that will “move them closer to graduation,” but do not literally mean that a “course” is something to physically take hold of, or that it will bodily convey them to a physical location of “graduation.”
+
+### Narratives must interrupt themselves for reflection
+
+A poststructuralist approach to faculty narratives is one that frequently interrupts itself to examine itself, and thus expects the role of faculty-as-learner to include a high degree of reflection-in-action (Schön, 1983). This has direct methodological implications. Interactions that might be considered "out of bounds" for a "neutral" interviewer/interviewee setup, such as probes that admit interviewer experiences and opinions, are now not only allowed, but explicitly required.
 
 Critiquing metanarratives in academia
 --------------------------------------------
