@@ -13,7 +13,7 @@ Liminal spaces
 What are poststructuralism and postmodernism
 -----------------------------------------------
 
-Poststructuralism and postmodernism seek to remain in the chaotic liminal spaces most other paradigms seek to escape. This study uses tools and language from within the "post-" paradigms to help participants and readers stay in the discomfort and “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
+When we try to understand faculty-as-learners from a poststructural perspective, we are not trying to find the “truth” of how they “really are,” as a positivist or post-positivist would. We are not trying to co-construct that truth with them, the way a constructivist might, or “liberate” them into a larger truth, as a critical theorist might. Instead, we simultaneously draw upon and challenge all these intellectual traditions in order to challenge the very idea of a coherent, pragmatic truth. Poststructuralism and postmodernism are paradigms that deliberately resists convergence. When we try to understand faculty-as-learners from this perspective, we seek to stay with them inside the sort of incoherent liminal spaces where most learners are intensely uncomfortable.
 
 Postmodernism and poststructuralism are heavily intertwined movements that share an opposition to positivism and objectivism. Postmodernism is a response to the modernist emphasis on unrelenting “progress” towards a “better” world. Whereas critical theory interrogates the identity of gatekeepers and the notion of who gets to determine what "better" means (CITATION), postmodernism questions the very concept of a single, infinitely extendable “better." It “denies itself the solace of good forms” and “searches for new presentations, not in order to enjoy them but in order to impart a stronger sense of the unpresentable” (Lyotard, 1984, p. 81).
 
@@ -21,6 +21,8 @@ Postmodernism and poststructuralism are heavily intertwined movements that share
 
 Tools to think with
 ---------------------
+
+This project uses tools and language from within the "post-" paradigms to help participants and readers stay in the discomfort and “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
 
 The poststructural paradigm treats faculty-as-learners as agents working against metanarratives by constantly deconstructing intertextual accounts in a writerly manner. We'll spend the remainder of this subsection unpacking the terminology used in that sentence.
 
