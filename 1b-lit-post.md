@@ -13,8 +13,11 @@ Liminal spaces
 What are poststructuralism and postmodernism
 -----------------------------------------------
 
-Poststructuralism seeks to remain in the chaotic liminal spaces most other paradigms seek to escape, and this study uses tools and language from within the paradigm to help participants and readers stay in the discomfort and “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
+Poststructuralism and postmodernism seek to remain in the chaotic liminal spaces most other paradigms seek to escape. This study uses tools and language from within the "post-" paradigms to help participants and readers stay in the discomfort and “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
 
+Postmodernism and poststructuralism are heavily intertwined movements that share an opposition to positivism and objectivism. Postmodernism is a response to the modernist emphasis on unrelenting “progress” towards a “better” world. Whereas critical theory interrogates the identity of gatekeepers and the notion of who gets to determine what "better" means (CITATION), postmodernism questions the very concept of a single, infinitely extendable “better." It “denies itself the solace of good forms” and “searches for new presentations, not in order to enjoy them but in order to impart a stronger sense of the unpresentable” (Lyotard, 1984, p. 81).
+
+(Unpack this section more; postmodernism is sort of like the action arm of poststructuralism, the two are different but can't be cleanly separated.)
 
 Tools to think with
 ---------------------
