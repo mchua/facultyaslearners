@@ -1,5 +1,7 @@
 (This section will expand on the communal context of faculty members as learners, including looking at historical conceptions of their roles and how those concepts fit into situated and communal learning theories such as the community of practice and cognitive apprenticeship frameworks.)
 
+We will first examine the literature on situated and communal learning. Faculty do not learn in isolation, nor do they learn in a vacuum. Instead, they learn alongside others in the context of their shared lives as academics. As part of understanding how faculty learning is situated in academic community, we will also investigate what that academic community looks like and how it has historically operated, especially within engineering and technology.
+
 What is a faculty member?
 ----------------------------
 

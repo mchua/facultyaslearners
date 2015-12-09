@@ -1,3 +1,5 @@
+We will then discuss curricular (re)design and innovation as liminal spaces within the faculty experience of academia. Poststructuralism and postmodernism (post-) paradigms offer us tools for understanding learning in liminal spaces. We will go through several of these post- tools and discuss how each of them helps us understand and disrupt our views of faculty as learners.
+
 (This section should introduce poststructuralism and postmodernism as tools to help us examine faculty learning within liminal experiences.
 
 * What are liminal spaces / liminal experiences, and where might they occur in faculty learning?

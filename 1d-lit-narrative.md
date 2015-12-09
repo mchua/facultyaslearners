@@ -1,4 +1,4 @@
-(This section should talk about the role of poststructural narrative in unpacking faculty learning.
+(Finally, we will turn to the literature on narrative. Narration is a way of engaging in learning; narrations also serve as proof that one has learned. We will look at the role of narration in the context of a community of practice, and discuss what it might mean to take a poststructural/postmodern perspective on it.)
 
 Faculty as narrators
 -----------------------
