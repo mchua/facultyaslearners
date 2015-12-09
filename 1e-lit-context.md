@@ -1,16 +1,45 @@
-(This section will expand on the communal context of faculty members as learners, including looking at historical conceptions of their roles and how those concepts fit into situated and communal learning theories such as the community of practice and cognitive apprenticeship frameworks.)
+In this section, we will discuss what we mean by "faculty," how faculty are situated and communal learners, and the nature of the context and community they learn with and within.
 
-We will first examine the literature on situated and communal learning. Faculty do not learn in isolation, nor do they learn in a vacuum. Instead, they learn alongside others in the context of their shared lives as academics. As part of understanding how faculty learning is situated in academic community, we will also investigate what that academic community looks like and how it has historically operated, especially within engineering and technology.
+What do we mean when we say "faculty"?
+------------------------------------------
 
-What is a faculty member?
-----------------------------
+### What is a faculty member?
 
-In order to understand faculty as learners, we must first examine what a faculty member is, and how their roles are positioned within the academic world they work in. AAUP, the American Association of University Professors, defines faculty members as "members of the instructional-research staff who are employed full time... \[and] whose major regular assignment (at least 50 percent) is instruction, including release time for research." (AAUP, 2015) Faculty on sabbatical are counted; temporary  replacements for faculty on paid leave are not counted. Part-time employees, administative officers such as librarians, deans, or coaches, and graduate and undergraduate teaching assistants are not counted. Notably, the AAUP defines faculty roles by function, not by title; anyone fitting that definition is included regardless of whether their formal institutional title is "faculty."
+In order to understand faculty as learners, we must first examine what a faculty member is and how their roles are positioned within the academic world they work in. AAUP, the American Association of University Professors, defines faculty members as "members of the instructional-research staff who are employed full time... \[and] whose major regular assignment (at least 50 percent) is instruction, including release time for research." (AAUP, 2015) Notably, the AAUP defines faculty roles by function, not by title; anyone fitting that definition is included regardless of whether their formal institutional title is "faculty."
  
-From this definition, we see that faculty job duties include, but are not limited to, the instruction of postsecondary students. In the case of engineering and technology faculty, this role specifically includes formation of engineering and technology students. 
+### Who is and isn't a faculty member?
 
-Faculty learning is situated in a communal academic context
-------------------------------------------------------
+According to the AAUP definition, faculty on sabbatical are counted; temporary replacements for faculty on paid leave are not counted. Part-time employees, administative officers such as librarians, deans, or coaches, and graduate and undergraduate teaching assistants are not counted. 
+
+(TODO: expand on what my definition of 
+
+### What do faculty do?
+
+From the AAUP definition, we see that faculty job duties include, but are not limited to, the instruction of postsecondary students. In the case of engineering and technology faculty, this role specifically includes formation of engineering and technology students. 
+
+(TODO: What else do faculty do? Expand on research, teaching, service -- where did these come from? CITE: Humboldt)
+
+This model for the life of the professorate comes to us from Wilhelm von Humboldt’s vision for the university, the 19th century “Bildungsideal” (literally, "higher-education-ideal"). The dual and symbiotic roles of teacher-scholar, the concept of academic freedom, and the autonomy to teach one’s classroom as one wishes all come from Humboldt’s views on the Enlightenment. (Humboldt, YYYY) His intent was to create vital and thinking citizens of the world, allowing individuals to develop themselves in an environment of intellectual freedom. 
+
+### How are faculty evaluated?
+
+(TODO: 
+
+CITE: Boyer
+
+
+How are faculty members situated and communal learners?
+-------------------------------------------------------------
+
+### Situated cognition
+
+### How faculty members are situated learners
+
+### Communities of practice
+
+### How faculty members are communal learners
+
+### Faculty as situated and communal learners in existing engineering education literature
 
 Faculty learning does not happen in a vacuum; it is situated in a particular context. That context is academia, both broadly as an institutional format that has been around for many years, and specifically in an individual faculty's disciplinary and campus culture. Faculty learning does not happen in isolation; faculty are also situated within their disciplinary and campus communities.
 
@@ -40,11 +69,9 @@ It is here that we find one of the major limitations of the cognitive apprentice
 
 However, Jane Vella’s 1997 book points out that adult learners must be seen as subjects rather than objects in learning from the very beginning (p. 129-148); they are already used to acting as independent agents and bring a rich storehouse of past experiences to the table. Baxter-Magolda and King describe such learners as self-authoring (Baxter-Magolda 7 King, 2004), which means they take responsibility for their own beliefs, sense of self, and relationships with others.
 
-What is the context of a faculty member
---------------------------------------------
+What is the context and community they learn within?
+------------------------------------------------------
 
 In the current dominant model of the American university, this includes direct classroom experience and contact with students, some degree of autonomy regarding how to teach them, and the expectation of an intellectual life outside the classroom. (CHOOSE FACULTY LIFE CITATION FROM POD LITERATURE HERE, OR GO WITH BOYER AS A BACKUP) 
 
-### Humboldt's vision for the professorate
 
-This model for the life of the professorate comes to us from Wilhelm von Humboldt’s vision for the university, the 19th century “Bildungsideal” (literally, "higher-education-ideal"). The dual and symbiotic roles of teacher-scholar, the concept of academic freedom, and the autonomy to teach one’s classroom as one wishes all come from Humboldt’s views on the Enlightenment. (Humboldt, YYYY) His intent was to create vital and thinking citizens of the world, allowing individuals to develop themselves in an environment of intellectual freedom. 
