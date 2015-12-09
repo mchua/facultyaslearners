@@ -44,6 +44,8 @@ Foucault’s 1969 lecture “What is an Author?” and Umberto Eco’s essay col
 
 Deconstruction is not a verb that we as agents execute on a text as object; rather, it is something that we notice the text has always done to itself. (Derrida, 1998; Cavallaro, 2001, p. 26). When we deconstruct a text, we make our world more writerly because we see texts as shifting, changing things.
 
+The transition from passive reader to active writer can be difficult. Marge Piercy’s poem “Unlearning to Not Speak” evokes the learning process of individual-yet-communal sensemaking that engaging in narration can foster: "She must learn again to speak / starting with I / starting with We / starting as the infant does / with her own true hunger" (1987, p. 97). Although narrative is rooted in the “true hunger” of self, it is only in a mutual engagement with the stories of "I" and "We" that sensemaking can begin its work of bridging and transforming.
+
 ### Signs and signifiers
 
 (Define signs and signifiers.)
