@@ -1,5 +1,13 @@
 In this section, we will discuss what we mean by "faculty," how faculty are situated and communal learners, and the nature of the context and community they learn with and within.
 
+Julia and I are both looking to facilitate and value a particular sort of transformative experience in engineering education. Her focus is service learning, and as part of that, she wants to work with faculty. My focus is faculty development.
+
+What, precisely, do we mean by “these sorts of experiences”? (Words we’ve used: transformative, whole-person, ontological, reflective, emergent, making-space.)
+
+How have those ideas and experiences shown up in the history of faculty development — who has done this before, what did they do, and how have they written about it? (High
+
+How have those ideas and experiences interacted (or not) with the way engineering education researchers write and think about faculty development?
+
 What do we mean when we say "faculty"?
 ------------------------------------------
 
