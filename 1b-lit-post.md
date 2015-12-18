@@ -1,34 +1,55 @@
-We will then discuss curricular (re)design and innovation as liminal spaces within the faculty experience of academia. Poststructuralism and postmodernism (post-) paradigms offer us tools for understanding learning in liminal spaces. We will go through several of these post- tools and discuss how each of them helps us understand and disrupt our views of faculty as learners.
+(This document should introduce tools from the poststructuralist and postmodernist paradigms as ideas we can employ as we examine faculty learning within liminal experiences.)
 
-(This section should introduce poststructuralism and postmodernism as tools to help us examine faculty learning within liminal experiences.
+In this section, we will discuss curricular (re)design and innovation as liminal spaces within the faculty experience of academia. We will look at several tools for understanding learning in liminal spaces. These tools come from poststructuralism and postmodernism, two intertwined paradigms originating in philosophy and art, and more recently used in qualitative research. We will look at how the tools from these philosophies help us understand and disrupt our views of faculty as learners.
 
 * What are liminal spaces / liminal experiences, and where might they occur in faculty learning?
-* How did poststructuralism and postmodernism evolve to create and respond to liminal experiences? (What is the difference between them?)
-* What are particular tools to think with from poststructuralism and postmodernism that will be helpful for us understanding faculty as learners?
-)
+* What are some tools we can use to think about learning in liminal spaces?
+* These tools come from poststructuralism and postmodernism. How did these philosophies and tools evolve to create and respond to liminal experiences, and why would we want to abandon continuous improvement for continuous disruption?
+* Wrapping it up: how can these tools help us take our view of faculty learning -- not "one step farther" (as that would be a modernist phrase), but into a place of deconstruction and disruption?
 
 Liminal spaces
 -------------------
 
-(Discussion of liminal and interstitial spaces, drawing on Talmudic analysis)
+This section tackles the following questions:
 
-What are poststructuralism and postmodernism
------------------------------------------------
+* What are liminal spaces / liminal experiences?
+* How and where can liminal experiences occur in faculty learning?
+* How have liminal experiences shown up in engineering education more specifically, either in practice or in literature?
 
-When we try to understand faculty-as-learners from a poststructural perspective, we are not trying to find the “truth” of how they “really are,” as a positivist or post-positivist would. We are not trying to co-construct that truth with them, the way a constructivist might, or “liberate” them into a larger truth, as a critical theorist might. Instead, we simultaneously draw upon and challenge all these intellectual traditions in order to challenge the very idea of a coherent, pragmatic truth. Poststructuralism and postmodernism are paradigms that deliberately resists convergence. When we try to understand faculty-as-learners from this perspective, we seek to stay with them inside the sort of incoherent liminal spaces where most learners are intensely uncomfortable.
+### What are liminal spaces / liminal experiences?
 
-Postmodernism and poststructuralism are heavily intertwined movements that share an opposition to positivism and objectivism. Postmodernism is a response to the modernist emphasis on unrelenting “progress” towards a “better” world. Whereas critical theory interrogates the identity of gatekeepers and the notion of who gets to determine what "better" means (CITATION), postmodernism questions the very concept of a single, infinitely extendable “better." It “denies itself the solace of good forms” and “searches for new presentations, not in order to enjoy them but in order to impart a stronger sense of the unpresentable” (Lyotard, 1984, p. 81).
+* Liminal spaces are in-between states, a suspended and sometimes "stuck" place that hovers between more settled ways of being.
+* Examples: teenagers are in-between childhood and adulthood.
+* Liminal spaces are awkward, uncomfortable, and most people seek to leave them as quickly as possible.
+* Liminal spaces are also potentially transformative if the person passes through them into a new way of being, rather than regressing to their old way of being.
+* Many cultures have coming-of-age traditions for moving between youth and adulthood. For instance, the culture of academia has the PhD dissertation as a transitional state between the more scaffolded place of "being a grad student" and the longer-term state of being a professional researcher.
+* Some cultures deliberately cultivate liminal spaces as a constant discipline for their community members.
+* Example: Jewish thought, in terms of Talmudic analysis. (Quote from Talmudic book on never-ending spiral goes here)
+* Example: modern therapy, where people seek to work through difficult situations in order to transform their lives.
+* Example: academia's search for constant learning and unsettling
 
-(Unpack this section more; postmodernism is sort of like the action arm of poststructuralism, the two are different but can't be cleanly separated.)
+### How and where can liminal experiences occur in faculty learning?
+
+* Curriculum development.
+
+### How have liminal experiences shown up in engineering education more specifically, either in practice or in literature?
+
+Caroline Baillie's work, plus Borrego/Streveler's depiction of engineering education as a preparadigmatic field.
 
 Tools to think with
 ---------------------
 
-This project uses tools and language from within the "post-" paradigms to help participants and readers stay in the discomfort and “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
+* What are some tools we can use to think about learning in liminal spaces?
 
-The poststructural paradigm treats faculty-as-learners as agents working against metanarratives by constantly deconstructing intertextual accounts in a writerly manner. We'll spend the remainder of this subsection unpacking the terminology used in that sentence.
+When venturing into liminal spaces, it is helpful to have thinking tools specifically designed for them. Fortunately, there are several techniques designed to help participants stay in a zone of discomfort so that we can “ask questions about what we have not thought to think, about what is most densely invested in our discourse/practices, about what has been muted, repressed, unheard” (Lather, 1991, p. 145).
 
-### Rejecting metanarratives and demolishing binaries
+* Being skeptical of metanarratives and binaries
+* Approaching texts as writerly, not only readerly
+* Playing with the malleability of signs and signifiers
+* Reading people and environments as texts
+* Acknowledging Bohrian cuts in an intertextual and intersubjective world
+
+### Being skeptical of metanarratives and binaries
 
 Postmodernism rejects metanarratives; poststructuralism deconstructs binaries and other forms of systematic categorization. Both of these are techniques to interrogate the simple notion of “truth” in order to admit multiplicities of perspectives.
 
@@ -36,9 +57,11 @@ Metanarratives are narratives that are totalizing. Metanarratives try to explain
 
 Poststructuralists critique binary oppositions because they "freeze" that shifting and can create false dichotomies that make readers forget they have the writerly power to restructure their world: “Will you pass that student or fail them?” “Neither; I can talk with them about taking an incomplete, substituting other work for the project they didn’t finish, and a whole host of other options.” Lather depicts the goal of deconstruction as “neither unitary wholeness nor dialectical resolution.” Instead, deconstruction seeks to “keep things in process, to disrupt, to keep the system in play, to set up procedures to continuously demystify the realities we create, to fight the tendency for our categories to congeal” (Lather, 1991, p. 13). It tugs at us to stay in the liminal spaces where we are learning.
 
-### Readerly and writerly texts
+### Approaching texts as writerly, not only readerly
 
-The terms writerly and readerly were coined by Roland Barthes in his 1973 book Le Plaisir du Texte (which the 1975 English translation renders as “The Pleasure of the Text”) in order to refer to the role of a text’s reader. A readerly text treats readers only as readers, passive recipients of knowledge. This may be done through narrative seduction, where authoritative-sounding words make it seem like an author’s interpretation is the only correct one; war propaganda frequently uses this technique. It may also be done through banality, where readers are conditioned to find a text so “ordinary” that they dismiss it with habitual patterns (Bruner, 1991, p. 9-10) such as “Oh, that’s just another woman being oversensitive and emotional.” Mishler’s description of “short-\[circuiting] the problem of meaning” by “suppressing the discourse and assuming shared and standard meanings” (1986, p. 65) is a perfect depiction of banality. 
+After spending all that time critiquing binaries, we set one up here, illustrating how difficult it is to escape from our linguistic constructs. The two terms in question are "readerly" and "writerly," coined by Roland Barthes in his 1973 book Le Plaisir du Texte (which the 1975 English translation renders as “The Pleasure of the Text”). Both words refer to potential roles of a text's reader. In other words, one can choose to approach any text in a "readerly" or a "writerly" way.
+
+A readerly text treats readers only as readers, passive recipients of knowledge. This may be done through narrative seduction, where authoritative-sounding words make it seem like an author’s interpretation is the only correct one; war propaganda frequently uses this technique. It may also be done through banality, where readers are conditioned to find a text so “ordinary” that they dismiss it with habitual patterns (Bruner, 1991, p. 9-10) such as “Oh, that’s just another woman being oversensitive and emotional.” Mishler’s description of “short-\[circuiting] the problem of meaning” by “suppressing the discourse and assuming shared and standard meanings” (1986, p. 65) is a perfect depiction of banality. 
 
 Regardless of the technique used to render a text readerly, such a text places readers in the epistemological position that Baxter-Magolda calls “following formulas” (2001) and Kegan calls the “third order of consciousness” whereby external voices serve as privileged authorities (1994). In a sense, if expertise is the ability to independently create and navigate within a complex context, readerly texts restrict readers from reaching for higher levels of expertise (S. Dreyfus & H. Dreyfus, 1980) by forcing them to play the role of being "'convinced'" of the author's right to serve as 'The Great Interpreter'" (Lather, 1991, p. 10).
 
@@ -48,7 +71,7 @@ Deconstruction is not a verb that we as agents execute on a text as object; rath
 
 The transition from passive reader to active writer can be difficult. Marge Piercy’s poem “Unlearning to Not Speak” evokes the learning process of individual-yet-communal sensemaking that engaging in narration can foster: "She must learn again to speak / starting with I / starting with We / starting as the infant does / with her own true hunger" (1987, p. 97). Although narrative is rooted in the “true hunger” of self, it is only in a mutual engagement with the stories of "I" and "We" that sensemaking can begin its work of bridging and transforming.
 
-### Signs and signifiers
+### Playing with the malleability of signs and signifiers
 
 (Define signs and signifiers.)
 
@@ -62,4 +85,20 @@ Poststructuralists also expose the privilege our communities grant to things tha
 
 A poststructural adaptation of communities of practice sees community members — including apprentice members — as texts, since the people are part of the surrounding sign-system those apprentices work to decode. This draws upon Stanley Fish's idea that “readers are readable” (1980) and Alberto Manguel’s idea that humans are books to be read (1997). In short, readers are produced by their culture as “texts” whose meanings are determined by their communities. In a similar way, texts also become readers because "they expect to be read in ways sanctioned by the community and thus read us as we read them, i.e. monitor our ability to employ the interpretive skills we are supposed to have developed" (Cavallaro, 2001). A common example in academia is the difficult “classic” paper that graduate students are expected to read “in ways sanctioned by the community” until they can use it to display the “interpretative skills” they “are supposed to have developed.” We transform writerly texts by reading them; texts transform us by reading us “as we read them.”
 
-### Intertextuality and intersubjectivity
+### * Acknowledging Bohrian cuts in an intertextual and intersubjective world
+
+What are poststructuralism and postmodernism
+-----------------------------------------------
+
+* These tools come from poststructuralism and postmodernism. How did these philosophies and tools evolve to create and respond to liminal experiences, and why would we want to abandon continuous improvement for continuous disruption?
+
+When we try to understand faculty-as-learners from a poststructural perspective, we are not trying to find the “truth” of how they “really are,” as a positivist or post-positivist would. We are not trying to co-construct that truth with them, the way a constructivist might, or “liberate” them into a larger truth, as a critical theorist might. Instead, we simultaneously draw upon and challenge all these intellectual traditions in order to challenge the very idea of a coherent, pragmatic truth. Poststructuralism and postmodernism are paradigms that deliberately resists convergence. When we try to understand faculty-as-learners from this perspective, we seek to stay with them inside the sort of incoherent liminal spaces where most learners are intensely uncomfortable.
+
+Postmodernism and poststructuralism are heavily intertwined movements that share an opposition to positivism and objectivism. Postmodernism is a response to the modernist emphasis on unrelenting “progress” towards a “better” world. Whereas critical theory interrogates the identity of gatekeepers and the notion of who gets to determine what "better" means (CITATION), postmodernism questions the very concept of a single, infinitely extendable “better." It “denies itself the solace of good forms” and “searches for new presentations, not in order to enjoy them but in order to impart a stronger sense of the unpresentable” (Lyotard, 1984, p. 81).
+
+(Unpack this section more; postmodernism is sort of like the action arm of poststructuralism, the two are different but can't be cleanly separated.)
+
+Bringing disruption to our view of engineering faculty
+----------------------------------------------------------
+
+* Wrapping it up: how can these tools help us take our view of faculty learning -- not "one step farther" (as that would be a modernist phrase), but into a place of deconstruction and disruption?
