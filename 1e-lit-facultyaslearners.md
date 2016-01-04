@@ -1,3 +1,5 @@
+(Huge insight from Sebastian: the title of this lit review section is actually "faculty as learners." Need to reorg functional spec based on that.)
+
 In this section, we will discuss what we mean by "faculty," how faculty are situated and communal learners, and the nature of the context and community they learn with and within.
 
 Julia and I are both looking to facilitate and value a particular sort of transformative experience in engineering education. Her focus is service learning, and as part of that, she wants to work with faculty. My focus is faculty development.
