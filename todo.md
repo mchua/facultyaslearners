@@ -2,7 +2,7 @@ The goal is small, readable versions of everything but the discussion; write som
 
 ------
 
-- [ ] Results: look at those outlines with fresher eyes and make sure every claim has solid argumentative backing; if not, scratch it.
+- [x] Results: look at those outlines with fresher eyes and make sure every claim has solid argumentative backing; if not, scratch it.
 - [ ] Results: type the surviving claims in full sentences with expanded abbreviations into that first little version of the results section.
 - [ ] Methods: look at the methods questions, and write a 1-paragraph (longer only if needed) answer to each -- you now have that first little version of the methods section. 
 - [ ] Lit review, postmodern: Turn each of the four tools into an action phrase; find examples of each usage in the results, and write a 1-paragraph description of each tool, with a "for-instance" example sentence. Make sure you have an "intro to postmodernism" section and a "where this shows up in engineering education" section, and that's it -- you now have that first little version.
