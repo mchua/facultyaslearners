@@ -18,3 +18,5 @@ The goal is small, readable versions of everything but the discussion; write som
 - [ ] Methods: go through the (printed-out) version of the methods section; if any paragraph fits into an existing tiny draft paragraph, then go ahead and put it in the right place. You know you'll need to edit the "how I analyzed stuff" section into past-tense and rip out the analysis parts you didn't actually do.
 - [x] Methods: each narrator's self-intro from their first interview copy-pasted into the appropriate location.
 - [ ] Methods/Litrev: Look at handwritten notes from readings and put them in the right dissertation chapter.
+
+------
