@@ -41,18 +41,25 @@ Here's what I did.
 
 (yes, there's data for all of these, that's what I'm trying to make-readable right now):
 
+###"You told me Darth Vader killed my father!"
 1. There's a consistent metanarrative of "faculty design the curriculum for the students." In other words, this framing creates an ontology with 3 distinct categories of self (faculty) world (curriculum, defined as the totality of the created learning environment) and other (students) -- and specifies roles for them: curriculum is by the faculty and for the students. This isn't untrue, but it also isn't everything. Let's investigate, using those postmodern tools we've already explained in the lit and methods sections.
 
+###"Avengers, assembl(age)!"
 2. (Troubling the notion of the "self") When we look at the (faculty) self, we see that faculty learners are assemblages (shifting configurations of active agents and inanimate objects) rather than distinct individuals (that do change, but do so within static boundaries that keep them as stable units of analysis to track that change in over time). They collaborate and learn in shifting groups that are simultaneously unified and composed of distinct pieces (like the Avengers, a superhero team whose membership keeps changing) -- the phrase "faculty as learners" simultaneously refers to faculty in the singular and the plural. Going in the other direction, even an "individual faculty member" narrates themselves as many characters at once ("myself in grad school" vs "myself in the classroom now" vs "myself at home with my kids") and the boundaries between these characters are not distinct.
 
+###"I am the Doctor."
 3. (Troubling the boundary between "self" and "world") Curricular designs are not only by the faculty; they are for, by, *and* of the faculty. Course designs are initiated starting from faculty interests, needs, and desires ("we should do something together", "we all need to learn to teach this course," etc.) Course designs incorporate the philosophies and values of the faculty who teach them (the 2nd and 7th Doctors are both Dr. Who, but they are also different Doctors -- instructors are no more interchangeable than actors) -- there's a sense in which the faculty *are* the curriculum.
 
+###"Darmok and Jalad at Tanagra!"
 4. (Troubling our notions of the "world") We represent our ontological conceptions of the world (curriculum) in language. Language collisions happen because different selves in dialogue have different perspectives. Language collisions are evidence of, and opportunity for, faculty as learners. Sometimes faculty try to get out of that "collision" space by seeing it as a mistake -- we should avoid these collisons, resolve them ASAP, in hindsight we should have known we were doing X all along, etc.
 
+###"Live. Die. Repeat." (or: Groundhog Day)
 5. (Still troubling our notions of the "world") We also represent our ontological conceptions of the world (curriculum) in action, which is inextricably woven with language. Curricular design and teaching iterations are evidence of and sites for faculty learning; hiding the iterations (as faculty sometimes try to do) hides the learning. (NOTE: This may or may not merge with #4; they're kind of the same concept, but got too big to write as one section at this time.)
 
+###Missing scifi reference! (Mr. Holland's Opus?)
 6. (Troubling the boundary between "world" and "other") Faculty learn as downstream recipients of curricula; they inherit courses (or a gap in which a course needs to be created) as well as students who've been influenced by the courses they've already taken. The "curriculum" for faculty learning is, among other things, by/for/of both colleagues and students (as well as other more distant entities like student employers). This "curriculum" space is not a separate world from the one the same faculty are creating "for the students." Students can do things that substantially affect the direction of a course. 
 
+###"Where is the horse and the rider?" ("Farmers, farriers, stable boys. These are no soldiers.")
 7. (Troubling the boundary between "self" and "other") By the transitive property, if faculty and students both blur into the curriculum, they also blur into each other. There is a difficult tension regarding the distinction between faculty as learners and students as learners, and how these people-as-learners author the curriculum. This tension shows up in discussions on the role of students in curricular design. 
 
 ## Discussion
