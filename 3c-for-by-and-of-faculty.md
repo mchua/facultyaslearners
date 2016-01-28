@@ -29,6 +29,17 @@ GARY 3: So, team teaching, that was a big piece to figure out what people unders
 
 The end goal is to create “the best content for the students.” However, in order to do this, the faculty need to learn several things for themselves. Faculty need to “figure out” things about each other, learn things about their colleagues' triggers and values, and learn negotiation skills. Their needs, values, and learning must  also be taken into account – something the metanarrative of “for the students” ignores.
 
+Faculty may also want to learn from and work with certain colleagues; the phrase “we should do something together,” spoken either in a research or a teaching context, refers first to the desire of faculty members to learn – and only secondarily to turning that faculty learning opportunity into a student learning opportunity as well. I made this point during a conversation with Jon.
+
+MEL-J6: That's a way of saying that, and then also we'll say things to each other, like you and I even in this conversation, and I think in last week's conversation, say things like, "We should do something together sometime." (208)
+JON 6: Yeah, that's the building interpersonal structures or what ever the word is there. (209)
+MEL-J6: And it's clear from that statement that the important thing is, "Hey, I wanna do something with you, I kinda don't care what the something is, but I want it to be to you." (210)
+
+The dataset narratives had many examples of faculty needs and values coming through in course design. For instance, Jon's personal interest in sustainability led him to look at design more broadly, and was the motivation for co-teaching an exploratory course on the topic in order to see how the idea could develop. (Jon 1) Alan described his cross-disciplinary background across both photography and the graphic and industrial arts as a way to explain his strong emphasis on aesthetics, which carries over into his teaching. “I think it might vary from faculty member to faculty member how much they place on aesthetics. I'm just saying from my perspective I put a LOT of value on something on how it looks.” (Alan 3, 208)
+
+In many cases, faculty interests interact with student reactions, snowballing from informal engagements into the design of a formal curricular offering. Rob's narrative of the origins of the “Stuff of History” course reflect this. “Stuff of History” was a cross-disciplinary offering between History and Materials Science that was started by Rob and Jon after a serendipitous discovery of how they could work together. In the narrative that follows, notice how Rob's involvement is driven by the interests of the faculty members – he goes from a one-time class visitor to a three-time class visitor to the co-instructor of a new course, driven primarily by a sense of the faculty wanting to continue having fun together.
+
+ROB 1: [Jon and two other faculty]... wanted to bring in a history of technology perspective... They said, "Rob, would you join us?" (214) Coming into their classroom was one of the biggest thrills I had in the first year... (216) [my visit] was supposed to happen once, and it [ended up as] a series of 3 visits. (222) So we ended up on the spot broadening my role a little bit... (223) It was a very early thrill for me that in some ways led me deeper into the idea of interdisciplinary integration which culminated into [teaching an] integrated course with Jon [called] Stuff of History, which was basically saying if we could have that much fun in a few sessions, what could we do with a whole course together? (225)
 
 Of the faculty
 -------------------
@@ -42,4 +53,6 @@ DATA: Mark's philosophy of letting students learn on their own leading to his "l
 
 DATA: Jon's undergrad experiences leading to his course designs being an avoidance/wish-fulfillment
 
+“We believe it's a good thing for our students to be able to design and make things,” said Alan. (Alan 3, 170) But where does this belief about what's “good for students” come from? According to Alan, it comes from the interests of the faculty themselves. “Every one of us [on the faculty] is more interested in design than we are in making things... and that's why we're focusing more on the design.” (Alan 3, 170)
 
+This example illustrates something the metanarrative of “for the students” will not admit: faculty already put their own needs and values into the curriculum. Faculty design and choose and position their courses because they also have interests and desires. Faculty might desire to make it clear that they can teach advanced technical classes, or they may feel a particular affinity to teaching first-year students. They may want to learn about a specific topic themselves – how often have we heard the advice to teach a seminar class on a topic as a way to get ourselves to learn it?
