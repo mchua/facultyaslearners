@@ -29,6 +29,21 @@ M2.txt:175:MARK 2: So though I feel for the student, one of the things that I th
 197:MARK 2: That's when it falls down to the students. I don't know if that's fair or unfair. That's something we've all had to do at some point. When you graduate, you leave with a set of skills, and ability -- but one of those key abilities is to be able to communicate. To be able to communicate what you can do. What you can bring a company. What you can do for that future boss. (197)
 
 Applying the transitive property means faculty blur with students
+
+We already see student agency as a good thing.
+--------------------------------------------------
+
+We already value student agency and autonomy.
+
+In academia, there is at least some acknowledgement that students play a large role in creating the learning environments they occasionally share with faculty. College brochures speak of student-run clubs and organizations, course tutoring, and other places where undergraduates serve as peer mentors to one another. Outside the classroom, students have agency and autonomy to shape their own environments; they run fraternities and sororities, throw campus events, and serve on student government.
+
+The faculty narrators also talked about valuing student agency and autonomy inside their classrooms. When they spoke of how they aspire to teach their students, those aspirations did not portray students as passive recipients of information.
+
+Gary on critical thinking – it was his doctoral research and is what he aspires to in his teaching, to get his students to become critical thinkers
+
+Alan describing Mark’s approach of letting them struggle; Mark believes that struggling leads students to deeper learning, instead of having things handed to them all the time.
+
+Butttt... there's a line we struggle to cross. Applying the transitive property means faculty blur with students 
 ------------------------------------------------------------------
 
 If we let faculty be users, we can also let students be designers. blur the boundaries, everyone is a learner and everyone is a teacher, right? lifelong learning!
