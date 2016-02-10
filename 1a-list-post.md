@@ -7,6 +7,13 @@ In this section, we will discuss curricular (re)design and innovation as liminal
 * These tools come from poststructuralism and postmodernism. How did these philosophies and tools evolve to create and respond to liminal experiences, and why would we want to abandon continuous improvement for continuous disruption?
 * Wrapping it up: how can these tools help us take our view of faculty learning -- not "one step farther" (as that would be a modernist phrase), but into a place of deconstruction and disruption?
 
+Vocabulary to introduce
+------------------------
+* premodern
+* modern
+* postmodern
+* poststructural
+
 Liminal spaces
 -------------------
 
@@ -51,6 +58,18 @@ When venturing into liminal spaces, it is helpful to have thinking tools specifi
 
 ### Being skeptical of metanarratives and binaries
 
+Vocabulary list
+* narrative
+* metanarrative
+* binary
+* categorization
+
+Indicators
+* actually...
+* the real story
+* that's how it's always been
+* X is wrong / it's not X
+
 Postmodernism rejects metanarratives; poststructuralism deconstructs binaries and other forms of systematic categorization. Both of these are techniques to interrogate the simple notion of “truth” in order to admit multiplicities of perspectives.
 
 Metanarratives are narratives that are totalizing. Metanarratives try to explain everything, but are themselves ahistorical and acultural, typically falling into readerly mode to gloss over their own socially constructed nature and any history of accepted thought that conflicts. “This is the truth,” they say. “This is how it’s always been.” 
@@ -58,6 +77,21 @@ Metanarratives are narratives that are totalizing. Metanarratives try to explain
 Poststructuralists critique binary oppositions because they "freeze" that shifting and can create false dichotomies that make readers forget they have the writerly power to restructure their world: “Will you pass that student or fail them?” “Neither; I can talk with them about taking an incomplete, substituting other work for the project they didn’t finish, and a whole host of other options.” Lather depicts the goal of deconstruction as “neither unitary wholeness nor dialectical resolution.” Instead, deconstruction seeks to “keep things in process, to disrupt, to keep the system in play, to set up procedures to continuously demystify the realities we create, to fight the tendency for our categories to congeal” (Lather, 1991, p. 13). It tugs at us to stay in the liminal spaces where we are learning.
 
 ### Approaching texts as writerly, not only readerly
+
+Vocabulary
+* text
+* intertext
+* subjective
+* intersubjective
+* slippage of meaning
+* writerly
+* readerly
+
+Indicators
+* not supposed to X
+* we can't X
+* but that's an X, not a Y; they're different
+* oh, that's just X
 
 After spending all that time critiquing binaries, we set one up here, illustrating how difficult it is to escape from our linguistic constructs. The two terms in question are "readerly" and "writerly," coined by Roland Barthes in his 1973 book Le Plaisir du Texte (which the 1975 English translation renders as “The Pleasure of the Text”). Both words refer to potential roles of a text's reader. In other words, one can choose to approach any text in a "readerly" or a "writerly" way.
 
@@ -73,7 +107,14 @@ The transition from passive reader to active writer can be difficult. Marge Pier
 
 ### Playing with the malleability of signs and signifiers
 
-(Define signs and signifiers.)
+Vocabulary
+* sign
+* signifier
+* deconstruction
+
+Indicators
+* pronoun tracing
+* we all (dis)agree
 
 Sign systems such as language — including the language we use to tell the stories that become part of our community’s narrative accruals — have a social dimension, with a multivocal, constantly shifting quality that theorists working with cognitive apprenticeship and community of practice frameworks occasionally give a nod to, but do not typically explore in as much depth as poststructuralists. Communities use sign systems to “[chop] up the continuum of space and time into categories” that then compose their reality. This chopping varies wildly between (and even within) communities; when we marvel at the many words Eskimos fit within our single concept of “snow,” we are noticing their creation of a cultural reality with a different fragmentation than our own (Cavallaro, 2001, p. 17).
 
@@ -86,6 +127,11 @@ Poststructuralists also expose the privilege our communities grant to things tha
 A poststructural adaptation of communities of practice sees community members — including apprentice members — as texts, since the people are part of the surrounding sign-system those apprentices work to decode. This draws upon Stanley Fish's idea that “readers are readable” (1980) and Alberto Manguel’s idea that humans are books to be read (1997). In short, readers are produced by their culture as “texts” whose meanings are determined by their communities. In a similar way, texts also become readers because "they expect to be read in ways sanctioned by the community and thus read us as we read them, i.e. monitor our ability to employ the interpretive skills we are supposed to have developed" (Cavallaro, 2001). A common example in academia is the difficult “classic” paper that graduate students are expected to read “in ways sanctioned by the community” until they can use it to display the “interpretative skills” they “are supposed to have developed.” We transform writerly texts by reading them; texts transform us by reading us “as we read them.”
 
 ### * Acknowledging Bohrian cuts in an intertextual and intersubjective world
+
+Vocabulary
+* agential cut
+* intra-action
+* assemblage
 
 What are poststructuralism and postmodernism
 -----------------------------------------------
