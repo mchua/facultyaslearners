@@ -117,3 +117,6 @@ By revealing and emphasizing... we simultaneously obscure...
 [Reveal:] Treading water and just making it as faculty
 [Obscure:] Becoming and growing as faculty
 
+What is learning?
+----------------------
+TODO: Pull from Neumann, 2005's definition: learning as changed cognition
