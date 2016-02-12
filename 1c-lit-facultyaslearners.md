@@ -85,3 +85,35 @@ What is the context and community they learn within?
 In the current dominant model of the American university, this includes direct classroom experience and contact with students, some degree of autonomy regarding how to teach them, and the expectation of an intellectual life outside the classroom. (CHOOSE FACULTY LIFE CITATION FROM POD LITERATURE HERE, OR GO WITH BOYER AS A BACKUP) 
 
 
+Faculty narratives of constraint
+-------------------------------------
+(from p. 18 of "Faculty Careers and Work Lives: a professional growth perspective", by O'Meara, Terosky, Neumann, 2008)
+
+
+Q 18: What the narrative of constraint emphasizes and obscures
+By revealing and emphasizing... we simultaneously obscure...
+
+[Reveal:] Constraints on faculty work -- what is holding faculty back, limiting their potential, careers, and work
+[Obscure:] Catalysts for faculty work, the nature of commitments and talent that fuel potential, careers, and work
+
+[Reveal:] The talent left behind and the work not done
+[Obscure:] The talent that is there and the accomplishments of work done today
+
+[Reveal:] Faculty as lone rangers, limited by isolation
+[Obscure:] Faculty in webs of professionals with whom they work and learn
+
+[Reveal:] Faculty as victims of chilly climates, lack of mentoring and support, reward systems that deemphasize teaching and community
+[Obscure:] Facutly who find agency to craft work lives that make distinct contributions to higher education and are personally meaningful
+
+[Reveal:] Faculty productivity as measured by teaching and advising loads, number of publications, awards, and grant dollars
+[Obscure:] Faculty learning as measured by concrete changes in understanding that positively influence and improve faculty work
+
+[Reveal:] Faculty satisfaction as measured by turnover and whether faculty would choose the career again
+[Obscure:] Faculty growth as measured by whether faculty are seeking and finding opportunities for learning and growing
+
+[Reveal:] Faculty development as something we do to faculty to get them to behave in certain ways
+[Obscure:] Faculty growth as having the potential to be self-directed, to unfold and deepen throughout the academic life, building on individual goals and talents
+
+[Reveal:] Treading water and just making it as faculty
+[Obscure:] Becoming and growing as faculty
+
